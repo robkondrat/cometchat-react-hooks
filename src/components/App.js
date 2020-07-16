@@ -16,7 +16,7 @@ const App = () => {
     }
   };
   return (
-    {renderApp()}
+    {renderApp()};
   );
 };
 
